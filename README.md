@@ -84,6 +84,7 @@ FULL ADDER:
 
 ### TRUTH TABLE 
 HALF ADDER:
+
 ![2222](https://user-images.githubusercontent.com/123259278/231417969-9615a8ff-2a0c-4ef0-8310-f43b07a1a2d3.png)
 
 FULL ADDER:
